@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "重ねトマト缶",
+  "base_artist": "原口沙輔",
+  "createdAt": "2025-12-03T08:49:36.242339Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "重ねトマト缶",
+      "artist": "原口沙輔",
+      "has_synced": false,
+      "path": "select/pl_01_重ねトマト缶_原口沙輔.txt"
+    }
+  ]
+}
